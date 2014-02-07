@@ -1,3 +1,6 @@
 [submodule "argos"]
 	path = argos
 	url = https://github.com/Saleslogix/argos.git
+[submodule "database"]
+	path = database
+	url = https://github.com/Saleslogix/database-schema.git
