@@ -7,3 +7,6 @@
 [submodule "web-help"]
 	path = web-help
 	url = https://github.com/Saleslogix/web-help.git
+[submodule "developer-tips"]
+	path = developer-tips
+	url = https://github.com/Saleslogix/developer-tips.git
