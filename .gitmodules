@@ -10,3 +10,6 @@
 [submodule "developer-tips"]
 	path = developer-tips
 	url = https://github.com/Saleslogix/developer-tips.git
+[submodule "unicode-help"]
+	path = unicode-help
+	url = https://github.com/Saleslogix/unicode-help.git
